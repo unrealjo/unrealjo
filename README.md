@@ -1,1 +1,2 @@
-![Profile stats](https://github-readme-stats.vercel.app/api?username=unrealjo&show_icons=true&theme=tokyonight)
+![Profile stats]()
+![Top langs](https://raw.githubusercontent.com/unrealjo/unrealjo/main/top-langs-github.svg)
