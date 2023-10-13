@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **Javascript, Go**
 
-- 📫 How to reach me **jo9unreal@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/11947907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11947907" height="30" width="40" /></a>
